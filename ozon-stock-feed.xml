@@ -1,39 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stocks date="2025-05-14 21:59">
-<stock offer_id="01-ГУМ-КАЛ-250-РАВ" quantity="100" />
-<stock offer_id="01-ГУМ-КАЛ-500-РАВ" quantity="100" />
-<stock offer_id="01-ГУМ-КАЛ-1000-РАВ" quantity="100" />
-<stock offer_id="03-ГУМ-КАЛ-10ГР-РАВ" quantity="100" />
-<stock offer_id="05-ГУМ-КАЛ-10ГР-РАВ" quantity="100" />
-<stock offer_id="10-ГУМ-КАЛ-10ГР-РАВ" quantity="100" />
-<stock offer_id="01-ТОРНАДО-1000-РАВ" quantity="100" />
-<stock offer_id="05-ЯНТ-КИС-2ГР-РАВ" quantity="100" />
-<stock offer_id="10-ЯНТ-КИС-2ГР-РАВ" quantity="100" />
-<stock offer_id="05-БОР-КИС-10ГР-РАВ" quantity="100" />
-<stock offer_id="10-БОР-КИС-10ГР-РАВ" quantity="100" />
-<stock offer_id="01-ДЕГОТЬ-100-РАВ" quantity="100" />
-<stock offer_id="05-ДЕГОТЬ-100-РАВ" quantity="100" />
-<stock offer_id="01-АЛФ-КРОТ-10-РАВ" quantity="100" />
-<stock offer_id="01-АЛФ-КРОТ-3-РАВ" quantity="100" />
-<stock offer_id="02-АЛФ-КРОТ-3-РАВ" quantity="100" />
-<stock offer_id="02-ГУМ-КАЛ-1000-РАВ" quantity="100" />
-<stock offer_id="01-РАУ-АП-500-РАВ" quantity="100" />
-<stock offer_id="01-РАУ-АП-1000-РАВ" quantity="100" />
-<stock offer_id="01-УРАГАН-100-РАВ" quantity="100" />
-<stock offer_id="01-УРАГАН-300-РАВ" quantity="100" />
-<stock offer_id="01-УРАГАН-50-РАВ" quantity="100" />
-<stock offer_id="01-РАУ-АП-ЭКС-1000-РАВ" quantity="100" />
-<stock offer_id="01-УРАГАН-500-НОВЫЙ-РАВ" quantity="100" />
-<stock offer_id="01-УРАГАН-1000-НОВЫЙ-РАВ" quantity="100" />
-<stock offer_id="15-АКТ-4Г-РАВ" quantity="100" />
-<stock offer_id="10-АКТ-4Г-РАВ" quantity="100" />
-<stock offer_id="03-АКТ-4Г-РАВ" quantity="100" />
-<stock offer_id="20-АКТ-4Г-РАВ" quantity="100" />
-<stock offer_id="01-РАУ-АП-ЭКС-500-РАВ" quantity="100" />
-<stock offer_id="01-УРАГАН-500-СТАР-РАВ" quantity="100" />
-<stock offer_id="01-УРАГАН-1000-СТАР-РАВ" quantity="100" />
-<stock offer_id="02-РАУ-АП-ЭКС-500-РАВ" quantity="100" />
-<stock offer_id="01-ДАКФОСАЛ-10-РАВ" quantity="100" />
-<stock offer_id="01-ДАКФОСАЛ-43-РАВ" quantity="100" />
-<stock offer_id="01-ДАКФОСАЛ-6-РАВ" quantity="100" />
-</stocks>
+<yml_catalog date="2025-05-14 22:07">
+<shop>
+<offers>
+<offer id="01-ГУМ-КАЛ-250-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-ГУМ-КАЛ-500-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-ГУМ-КАЛ-1000-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="03-ГУМ-КАЛ-10ГР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="05-ГУМ-КАЛ-10ГР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="10-ГУМ-КАЛ-10ГР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-ТОРНАДО-1000-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="05-ЯНТ-КИС-2ГР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="10-ЯНТ-КИС-2ГР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="05-БОР-КИС-10ГР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="10-БОР-КИС-10ГР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-ДЕГОТЬ-100-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="05-ДЕГОТЬ-100-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-АЛФ-КРОТ-10-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-АЛФ-КРОТ-3-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="02-АЛФ-КРОТ-3-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="02-ГУМ-КАЛ-1000-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-РАУ-АП-500-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-РАУ-АП-1000-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-УРАГАН-100-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-УРАГАН-300-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-УРАГАН-50-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-РАУ-АП-ЭКС-1000-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-УРАГАН-500-НОВЫЙ-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-УРАГАН-1000-НОВЫЙ-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="15-АКТ-4Г-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="10-АКТ-4Г-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="03-АКТ-4Г-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="20-АКТ-4Г-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-РАУ-АП-ЭКС-500-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-УРАГАН-500-СТАР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-УРАГАН-1000-СТАР-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="02-РАУ-АП-ЭКС-500-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-ДАКФОСАЛ-10-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-ДАКФОСАЛ-43-РАВ">
+<stock>100</stock>
+</offer>
+<offer id="01-ДАКФОСАЛ-6-РАВ">
+<stock>100</stock>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
