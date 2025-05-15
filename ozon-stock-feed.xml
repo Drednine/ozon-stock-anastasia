@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-15 16:48">
+<yml_catalog date="2025-05-15 16:50">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -8,23 +8,23 @@
 </offer>
 <offer id="01-ГУМ-КАЛ-500-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165197</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165198</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165199</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165200</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165201</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="01-ТОРНАДО-1000-РАВ">
 <stock>120</stock>
@@ -32,119 +32,119 @@
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165202</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165203</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="05-БОР-КИС-10ГР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165204</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="10-БОР-КИС-10ГР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165205</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="01-ДЕГОТЬ-100-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165206</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="05-ДЕГОТЬ-100-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165207</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165208</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165209</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="02-АЛФ-КРОТ-3-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165210</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165211</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="01-РАУ-АП-500-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463001</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-РАУ-АП-1000-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463002</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-УРАГАН-100-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463003</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-УРАГАН-300-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463004</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-УРАГАН-50-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463005</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-1000-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463006</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463007</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-УРАГАН-1000-НОВЫЙ-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463008</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="15-АКТ-4Г-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463009</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="10-АКТ-4Г-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463010</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="03-АКТ-4Г-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463011</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="20-АКТ-4Г-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463012</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-500-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463013</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463014</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-УРАГАН-1000-СТАР-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463015</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="02-РАУ-АП-ЭКС-500-РАВ">
 <stock>120</stock>
-<warehouse-id>1020002825463016</warehouse-id>
+<warehouse-id>1020002825463000</warehouse-id>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165212</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="01-ДАКФОСАЛ-43-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165213</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 <offer id="01-ДАКФОСАЛ-6-РАВ">
 <stock>120</stock>
-<warehouse-id>1020005000165214</warehouse-id>
+<warehouse-id>1020005000165196</warehouse-id>
 </offer>
 </offers>
 </shop>
