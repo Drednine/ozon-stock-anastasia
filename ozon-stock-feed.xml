@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-16 15:52">
+<yml_catalog date="2025-05-16 16:11">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -370,6 +370,16 @@
 <offer id="05-АЛФ-КРОТ-10-РАВ">
 <outlets>
 <outlet instock="120" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="02-УРАГАН-1000-НОВЫЙ-РАВ">
+<outlets>
+<outlet instock="120" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="02-УРАГАН-500-НОВЫЙ-РАВ">
+<outlets>
+<outlet instock="120" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 </offers>
