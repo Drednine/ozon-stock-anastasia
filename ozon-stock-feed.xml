@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-17 07:52">
+<yml_catalog date="2025-05-17 08:52">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ТОРНАДО-1000-РАВ">
@@ -39,52 +39,52 @@
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="05-БОР-КИС-10ГР-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="10-БОР-КИС-10ГР-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ДЕГОТЬ-100-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="05-ДЕГОТЬ-100-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="02-АЛФ-КРОТ-3-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-500-РАВ">
@@ -169,47 +169,47 @@
 </offer>
 <offer id="01-ДАКФОСАЛ-10-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ДАКФОСАЛ-43-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ДАКФОСАЛ-6-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-250-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ТОРНАДО-1000-САЛ">
@@ -219,52 +219,52 @@
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="05-БОР-КИС-10ГР-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="10-БОР-КИС-10ГР-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ДЕГОТЬ-100-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="05-ДЕГОТЬ-100-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-АЛФ-КРОТ-3-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-500-САЛ">
@@ -349,27 +349,27 @@
 </offer>
 <offer id="01-ДАКФОСАЛ-10-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ДАКФОСАЛ-43-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ДАКФОСАЛ-6-САЛ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="03-АЛФ-КРОТ-3-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="05-АЛФ-КРОТ-10-РАВ">
 <outlets>
-<outlet instock="120" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-РАВ">
