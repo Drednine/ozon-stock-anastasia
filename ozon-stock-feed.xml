@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-05-19 16:52">
+<yml_catalog date="2025-05-19 17:43">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -77,12 +77,12 @@
 <outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
-<offer id="02-АЛФ-КРОТ-3-РАВ">
+<offer id="01-АЛФ-КРОТ-6-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
-<offer id="02-ГУМ-КАЛ-1000-РАВ">
+<offer id="02-ГУМ-КАЛ-1000-2ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
 </outlets>
@@ -162,7 +162,7 @@
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
-<offer id="02-РАУ-АП-СТАРЫЙ-500-РАВ">
+<offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
@@ -257,12 +257,12 @@
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
-<offer id="02-АЛФ-КРОТ-3-САЛ">
+<offer id="01-АЛФ-КРОТ-6-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
-<offer id="02-ГУМ-КАЛ-1000-САЛ">
+<offer id="02-ГУМ-КАЛ-1000-2ШТ-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
@@ -342,7 +342,7 @@
 <outlet instock="120" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
-<offer id="02-РАУ-АП-СТАРЫЙ-500-САЛ">
+<offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
 <outlets>
 <outlet instock="120" warehouse_name="rFBS-SAL"/>
 </outlets>
@@ -362,37 +362,37 @@
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
-<offer id="03-АЛФ-КРОТ-10-РАВ">
+<offer id="01-АЛФ-КРОТ-30-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
-<offer id="05-АЛФ-КРОТ-10-РАВ">
+<offer id="01-АЛФ-КРОТ-50-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
-<offer id="02-УРАГАН-1000-НОВЫЙ-РАВ">
+<offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
-<offer id="02-УРАГАН-500-НОВЫЙ-РАВ">
+<offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
-<offer id="02-РАУ-АП-СТАРЫЙ-1000-РАВ">
+<offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
-<offer id="02-РАУ-АП-НОВЫЙ-1000-РАВ">
+<offer id="02-РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
-<offer id="02-РАУ-АП-НОВЫЙ-500-РАВ">
+<offer id="02-РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
@@ -457,12 +457,12 @@
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
-<offer id="03-АЛФ-КРОТ-10-САЛ">
+<offer id="01-АЛФ-КРОТ-30-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
-<offer id="05-АЛФ-КРОТ-10-САЛ">
+<offer id="01-АЛФ-КРОТ-50-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
