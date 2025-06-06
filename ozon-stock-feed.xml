@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-06-06 09:52">
+<yml_catalog date="2025-06-06 10:38">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -629,32 +629,32 @@
 </offer>
 <offer id="ЗМЕЕСТОП-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЗМЕЕСТОП-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЗМЕЕСТОП-3ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЗМЕЕСТОП-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ЗМЕЕСТОП-2ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ЗМЕЕСТОП-3ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 </offers>
