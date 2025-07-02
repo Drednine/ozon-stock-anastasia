@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-07-02 16:52">
+<yml_catalog date="2025-07-02 17:52">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -89,12 +89,12 @@
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-100-РАВ">
@@ -114,7 +114,7 @@
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-РАВ">
@@ -149,7 +149,7 @@
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-500-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-РАВ">
@@ -164,7 +164,7 @@
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-ДАКФОСАЛ-10-РАВ">
@@ -384,27 +384,27 @@
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-САЛ">
@@ -419,7 +419,7 @@
 </offer>
 <offer id="03-РАУ-АП-ЭКС-300-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-300-САЛ">
