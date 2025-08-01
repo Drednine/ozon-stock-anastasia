@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-01 19:52">
+<yml_catalog date="2025-08-01 20:52">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-3ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ТОРНАДО-1000-РАВ">
@@ -39,32 +39,32 @@
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-10ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="05-БОР-КИС-10ГР-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="10-БОР-КИС-10ГР-10ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ДЕГОТЬ-100-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-РАВ">
@@ -84,7 +84,7 @@
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-РАВ">
@@ -184,32 +184,32 @@
 </offer>
 <offer id="01-ГУМ-КАЛ-250-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-3ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-5ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ТОРНАДО-1000-САЛ">
@@ -219,52 +219,52 @@
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-5ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-10ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="05-БОР-КИС-10ГР-5ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="10-БОР-КИС-10ГР-10ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ДЕГОТЬ-100-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-2ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-САЛ">
@@ -349,17 +349,17 @@
 </offer>
 <offer id="01-ДАКФОСАЛ-10-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ДАКФОСАЛ-43-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ДАКФОСАЛ-6-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-РАВ">
@@ -459,12 +459,12 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-30-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="БИОГАРД-1000-РАВ">
@@ -474,72 +474,72 @@
 </offer>
 <offer id="ТИУРАМ-100ГР-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-7ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-10ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-50ГР-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-50ГР-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-5ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-7ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-2ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-10ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-50ГР-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-50ГР-2ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="НАПАЛМ-500-РАВ">
@@ -674,112 +674,112 @@
 </offer>
 <offer id="ЭКОФУС-500-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-1000-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="СИЛИПЛАНТ-100-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-50-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-100-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЦИРКОН-50-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ДОМОЦВЕТ-50-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЭКОФУС-500-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-1000-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="СИЛИПЛАНТ-100-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-50-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-100-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ЦИРКОН-50-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ДОМОЦВЕТ-50-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ЭКОФУС-1000МЛ-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЭКОФУС-1000МЛ-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-10ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-5ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-10ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-ПДА">
@@ -834,12 +834,12 @@
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-ПДА">
@@ -869,112 +869,112 @@
 </offer>
 <offer id="10-БОР-КИС-10ГР-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="05-БОР-КИС-10ГР-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-250-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-ДЕГОТЬ-100-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ЦИРКОН-50-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="05-ГУМ-КАЛ-10ГР-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="05-ЯНТ-КИС-2ГР-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ЭКОФУС-500-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ДОМОЦВЕТ-50-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="10-ГУМ-КАЛ-10ГР-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-1000-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="СИЛИПЛАНТ-100-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-500-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-1000-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-50-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="03-ГУМ-КАЛ-10ГР-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ЭКОФУС-1000МЛ-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="02-ГУМ-КАЛ-1000-2ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="10-ЯНТ-КИС-2ГР-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-100-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 </offers>
