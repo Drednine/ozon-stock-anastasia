@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-08-14 17:52">
+<yml_catalog date="2025-08-14 18:52">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -89,12 +89,12 @@
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-100-РАВ">
@@ -114,7 +114,7 @@
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-РАВ">
@@ -149,7 +149,7 @@
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-500-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-РАВ">
@@ -164,7 +164,7 @@
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-ГУМ-КАЛ-250-САЛ">
@@ -239,12 +239,12 @@
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-1000-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-100-САЛ">
@@ -264,7 +264,7 @@
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-1000-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-САЛ">
@@ -299,7 +299,7 @@
 </offer>
 <offer id="01-РАУ-АП-СТАРЫЙ-500-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-УРАГАН-500-СТАР-САЛ">
@@ -314,7 +314,7 @@
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-РАВ">
@@ -329,47 +329,47 @@
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="02-РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-50-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-ЭКС-100-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-300-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="03-РАУ-АП-ЭКС-300-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="05-ФУНДАЗОЛ-10ГР-5ШТ-РАВ">
@@ -514,7 +514,7 @@
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-1000-2ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-БИО-ГАР-1000-2ШТ-САЛ">
@@ -539,12 +539,12 @@
 </offer>
 <offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-500-2ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-НАПАЛМ-500-САЛ">
@@ -564,47 +564,47 @@
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-500-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-500-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-1000-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-500-2ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-50-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-100-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-СТАРЫЙ-500-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="ЭКОФУС-500-1ШТ-РАВ">
