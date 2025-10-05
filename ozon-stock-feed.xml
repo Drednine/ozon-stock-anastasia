@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-05 13:52">
+<yml_catalog date="2025-10-05 14:52">
 <shop>
 <offers>
 <offer id="01-ГУМ-КАЛ-250-РАВ">
@@ -262,11 +262,6 @@
 <outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
-<offer id="01-РАУ-АП-СТАРЫЙ-1000-САЛ">
-<outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
-</outlets>
-</offer>
 <offer id="01-УРАГАН-500-НОВЫЙ-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS-SAL"/>
@@ -297,11 +292,6 @@
 <outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
-<offer id="01-РАУ-АП-СТАРЫЙ-500-САЛ">
-<outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
-</outlets>
-</offer>
 <offer id="01-УРАГАН-500-СТАР-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS-SAL"/>
@@ -310,11 +300,6 @@
 <offer id="01-УРАГАН-1000-СТАР-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS-SAL"/>
-</outlets>
-</offer>
-<offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
-<outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-РАВ">
@@ -535,11 +520,6 @@
 <offer id="01-НАПАЛМ-1000-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS-SAL"/>
-</outlets>
-</offer>
-<offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-САЛ">
-<outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="РАУ-АП-НОВЫЙ-500-2ШТ-САЛ">
@@ -1480,6 +1460,36 @@
 <offer id="РАУ-НОВ-500МЛ-2ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="01-РАУ-АП-СТАРЫЙ-500-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
+</outlets>
+</offer>
+<offer id="02-РАУ-АП-СТАРЫЙ-1000-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
+</outlets>
+</offer>
+<offer id="02-РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
+</outlets>
+</offer>
+<offer id="РАУ-АП-СТАРЫЙ-500-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
+</outlets>
+</offer>
+<offer id="РАУ-АП-СТАРЫЙ-1000-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
+</outlets>
+</offer>
+<offer id="РАУ-АП-СТАРЫЙ-500-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 </offers>
