@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-16 12:52">
+<yml_catalog date="2025-10-16 13:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-10-САЛ">
@@ -19,12 +19,12 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-3-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-САЛ">
@@ -34,12 +34,12 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-30-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-САЛ">
@@ -49,12 +49,12 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-50-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-САЛ">
@@ -64,12 +64,12 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-6-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-САЛ">
