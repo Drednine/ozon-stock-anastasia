@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-24 07:52">
+<yml_catalog date="2025-10-24 08:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -14,7 +14,7 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-10-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-3-ПДА">
@@ -29,7 +29,7 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-3-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-30-ПДА">
@@ -44,7 +44,7 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-30-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-50-ПДА">
@@ -59,7 +59,7 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-50-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРОТ-6-ПДА">
@@ -74,7 +74,7 @@
 </offer>
 <offer id="01-АЛФ-КРОТ-6-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-БИО-ГАР-1000-САЛ">
