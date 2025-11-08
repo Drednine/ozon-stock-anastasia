@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-08 20:52">
+<yml_catalog date="2025-11-08 21:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -1844,17 +1844,17 @@
 </offer>
 <offer id="ЗАЩИТ-ТЕПЛИЦ-ОТ-БОЛЕЗ-5ГР-2ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ЗАЩИТ-ТЕПЛИЦ-ОТ-БОЛЕЗ-5ГР-5ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ЗАЩИТ-ТЕПЛИЦ-ОТ-БОЛЕЗ-5ГР-10ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БРЕФ-1ШТ-ПДА">
@@ -1950,6 +1950,21 @@
 <offer id="КОНФИДОЛ-10МЛ-3ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МОНАРХ-4ГР-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МОНАРХ-4ГР-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МОНАРХ-4ГР-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 </offers>
