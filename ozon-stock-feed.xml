@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-11 07:52">
+<yml_catalog date="2025-11-11 08:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2145,6 +2145,36 @@
 <offer id="БОР-КИС-100ГР-5ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
+</outlets>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
+</outlets>
+</offer>
+<offer id="КОНФИДОЛ-10МЛ-3ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 </offers>
