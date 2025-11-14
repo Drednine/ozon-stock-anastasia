@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-14 10:52">
+<yml_catalog date="2025-11-14 11:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2175,6 +2175,51 @@
 <offer id="КОНФИДОЛ-10МЛ-3ШТ-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-УРАГАН-100-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-УРАГАН-300-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-УРАГАН-50-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-УРАГАН-500-НОВЫЙ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-УРАГАН-1000-НОВЫЙ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-УРАГАН-500-СТАР-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-УРАГАН-1000-СТАР-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="02-УРАГАН-1000-НОВЫЙ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 </offers>
