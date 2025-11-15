@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-15 18:52">
+<yml_catalog date="2025-11-15 19:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2220,6 +2220,96 @@
 <offer id="02-УРАГАН-500-НОВЫЙ-2ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ТЕРКА-МАЛ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ТЕРКА-БОЛ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ТЕРКА-КОНУС-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МЕШКИ-КРЕМ-S-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МЕШКИ-КРЕМ-M-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МЕШКИ-КРЕМ-L-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 </offers>
