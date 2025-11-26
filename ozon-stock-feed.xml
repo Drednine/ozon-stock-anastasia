@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-26 23:52">
+<yml_catalog date="2025-11-27 00:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -729,7 +729,7 @@
 </offer>
 <offer id="ЗЕЛ-МЫЛ-250-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ЗЕЛ-МЫЛ-500-1ШТ-ПДА">
