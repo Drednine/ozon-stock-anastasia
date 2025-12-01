@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-01 14:52">
+<yml_catalog date="2025-12-01 15:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -1649,7 +1649,7 @@
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-1КГ-1ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЖЕЛЕЗНЫЙ-КУПОРОС-1КГ-1ШТ-САЛ">
@@ -2625,6 +2625,36 @@
 <offer id="ТОЧИЛКА-4ЕХ-РЯД-1ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ЦИТОВИТ-100МЛ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="ЦИТОВИТ-100МЛ-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="ЦИТОВИТ-100МЛ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ВЕРТИМЕК-10МЛ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="ВЕРТИМЕК-10МЛ-5ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="ФАЛЬКОН-10МЛ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 </offers>
