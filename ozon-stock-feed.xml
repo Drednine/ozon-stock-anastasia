@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-05 13:52">
+<yml_catalog date="2025-12-05 14:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2374,7 +2374,7 @@
 </offer>
 <offer id="СВЕЧА-В-КОКОСЕ+СПРЕЙ-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ДОХ-ВСЕХ-НАСЕК-100ГР-3ШТ-ПДА">
@@ -2524,7 +2524,7 @@
 </offer>
 <offer id="НГ-СВЕЧА-В-КОКОСЕ+СПРЕЙ-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="РАУНДАП-НОВЫЙ-500МЛ-1ШТ-РАВ">
