@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-11 10:52">
+<yml_catalog date="2025-12-11 11:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2655,6 +2655,61 @@
 <offer id="ФАЛЬКОН-10МЛ-1ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-КОЖА-ДРЕВЕСИНА-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-ЕЛКА-ЦИТРУС-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-РОЗА-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧИ-НАБОР-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-РОЗА-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-КОЖА-ДРЕВЕСИНА-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-АПЕЛЬСИН-КОРИЦА-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-ВАНИЛЬ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-ЕЛКА-ЦИТРУС-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-АПЕЛЬСИН-КОРИЦА-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="СВЕЧА-ВАНИЛЬ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 </offers>
