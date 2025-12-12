@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-12-12 07:52">
+<yml_catalog date="2025-12-12 08:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -1999,7 +1999,7 @@
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-2ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-2ШТ-САЛ">
@@ -2710,6 +2710,46 @@
 <offer id="СВЕЧА-ВАНИЛЬ-1ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="ШТОПОР-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="СКАЛКА-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ПЕРГАМЕНТ-БУМАГА-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ПЕРГАМЕНТ-БУМАГА-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ПЕРГАМЕНТ-БУМАГА-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МУСОР-МЕШКИ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МУСОР-МЕШКИ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="МУСОР-МЕШКИ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 </offers>
