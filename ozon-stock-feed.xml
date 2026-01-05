@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-05 11:52">
+<yml_catalog date="2026-01-05 12:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2745,6 +2745,216 @@
 <offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-3ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="НИТРАФЕН-1000МЛ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="НИТРАФЕН-1000МЛ-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="АГИТА-25ГР-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-3ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-3ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-3ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-3ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-3ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ДНОК-10ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="rFBS"/>
+</outlets>
+</offer>
+<offer id="МОНАРХ-ТАР-1ГР-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="МОНАРХ-ТАР-1ГР-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-20МЛ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-МУРАВ-20МЛ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-МУРАВ-20МЛ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-20МЛ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-20МЛ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-МУРАВ-20МЛ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 </offers>
