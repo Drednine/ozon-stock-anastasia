@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-05 10:52">
+<yml_catalog date="2026-01-05 11:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2670,6 +2670,81 @@
 <offer id="ТОЧИЛКА-3ЕХ-РЯД-1ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-КОМНАТ-РАСТЕНИЙ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ОВОЩЕЙ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-РАССАДЫ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-ЦВЕТОВ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="БИОГУМУС-УНИВЕРСАЛЬНЫЙ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 </offers>
