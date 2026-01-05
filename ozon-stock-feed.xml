@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-05 08:52">
+<yml_catalog date="2026-01-05 09:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2663,6 +2663,11 @@
 </outlets>
 </offer>
 <offer id="НАТИСК-ЗЕРНО-200ГР-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="ТОЧИЛКА-3ЕХ-РЯД-1ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
