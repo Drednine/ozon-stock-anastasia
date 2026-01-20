@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-20 16:52">
+<yml_catalog date="2026-01-20 17:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -2955,6 +2955,46 @@
 <offer id="НАТИСК-ОТ-МУРАВ-20МЛ-1ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="АРОМАДИФ-БЕЛ-ЧАЙ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="АРОМАДИФ-ХЛОПОК-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="АРОМАДИФ-ИНЖИР-СЛИВ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="АРОМАДИФ-МОРСК-БРИЗ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="АРОМАДИФ-ТАБАК-БЕРГАМОТ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="АРОМАДИФ-БЕЛ-ЧАЙ+ХЛОПОК-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="АРОМАДИФ-МОРСК-БРИЗ+ИНЖИР-СЛИВ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="АРОМАДИФ-МОРСК-БРИЗ+ТАБАК-БЕРГАМОТ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 </offers>
