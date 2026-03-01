@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-01 08:52">
+<yml_catalog date="2026-03-01 09:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРОТ-10-ПДА">
@@ -3124,142 +3124,142 @@
 </offer>
 <offer id="ДУСТ-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ДУСТ-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ДУСТ-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ДУСТ-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЙ-ОТ-ГРЫЗ-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЙ-ОТ-ГРЫЗ-2ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЙ-ОТ-ГРЫЗ-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БОРНЫЕ-КРОШКИ-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БОРНЫЕ-КРОШКИ-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БОРНЫЕ-КРОШКИ-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БОРНЫЕ-КРОШКИ-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БОРНЫЕ-ШАРИКИ-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БОРНЫЕ-ШАРИКИ-2ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БОРНЫЕ-ШАРИКИ-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-8ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ДОМ-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ДОМ-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ДОМ-8ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ДОМ-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ПЛАС-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ПЛАС-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ПЛАС-8ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ПЛАС-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="СЕТКА-ОТ-ПТИЦ-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="СЕТКА-ОТ-ПТИЦ-2ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 </offers>
