@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-15 19:52">
+<yml_catalog date="2026-05-15 20:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРО-10-ПДА">
@@ -129,17 +129,17 @@
 </offer>
 <offer id="01-ДЕГОТЬ-100-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-ДЕГОТЬ-100-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ДЕГОТЬ-100-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-КАЛИП-10МЛ-САЛ">
@@ -154,7 +154,7 @@
 </offer>
 <offer id="01-НАП-100-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-НАП-1000-САЛ">
@@ -184,7 +184,7 @@
 </offer>
 <offer id="01-РАУ-АП-100-111-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-50-РАВ">
@@ -209,12 +209,12 @@
 </offer>
 <offer id="01-УРА-100-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-УРА-100-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-УРА-1000-НОВЫЙ-РАВ">
@@ -414,17 +414,17 @@
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="05-ДЕГОТЬ-100-5ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="05-ФУНДАЗОЛ-10ГР-РАВ">
@@ -754,7 +754,7 @@
 </offer>
 <offer id="01-НАП-100-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-НАП-1000-РАВ">
@@ -864,7 +864,7 @@
 </offer>
 <offer id="01-РАУ-АП-100-222-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-50-111-РАВ">
@@ -2064,7 +2064,7 @@
 </offer>
 <offer id="01-УРА-100-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-УРА-300-ПДА">
