@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-23 10:52">
+<yml_catalog date="2026-06-23 11:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРО-10-ПДА">
@@ -144,7 +144,7 @@
 </offer>
 <offer id="01-КАЛИП-10МЛ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-КАР-ФОС-10МЛ-САЛ">
@@ -1089,17 +1089,17 @@
 </offer>
 <offer id="ФЕРОВИТ-100-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-100-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-100-1ШТ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ФЕРОВИТ-1000-1ШТ-ПДА">
@@ -1824,17 +1824,17 @@
 </offer>
 <offer id="01-КОН-ДОЛ-10МЛ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-PDA"/>
+<outlet instock="0" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="02-КОН-ДОЛ-10МЛ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-PDA"/>
+<outlet instock="0" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="03-КОН-ДОЛ-10МЛ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-PDA"/>
+<outlet instock="0" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-3ШТ-ПДА">
@@ -2034,32 +2034,32 @@
 </offer>
 <offer id="01-КОН-ДОЛ-10МЛ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="02-КОН-ДОЛ-10МЛ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="03-КОН-ДОЛ-10МЛ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-КОН-ДОЛ-10МЛ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-КОН-ДОЛ-10МЛ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="03-КОН-ДОЛ-10МЛ-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-УРА-100-ПДА">
@@ -2339,7 +2339,7 @@
 </offer>
 <offer id="01-КАЛИП-10МЛ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-PDA"/>
+<outlet instock="0" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-3ШТ-РАВ">
