@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-15 09:52">
+<yml_catalog date="2026-07-15 10:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРО-10-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-10-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-10-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-3-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-3-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-3-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-30-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-30-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-30-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-50-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-50-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-50-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-6-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-6-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-АЛФ-КРО-6-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-БИО-ГАР-1000-САЛ">
@@ -144,7 +144,7 @@
 </offer>
 <offer id="01-КАЛИП-10МЛ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-КАР-ФОС-10МЛ-САЛ">
@@ -739,17 +739,17 @@
 </offer>
 <offer id="МОНАРХ-4ГР-1ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-2ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-3ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-НАП-100-РАВ">
@@ -1009,17 +1009,17 @@
 </offer>
 <offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="СИЛИПЛАНТ-1000МЛ-1ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ТИУРАМ-100ГР-10ШТ-РАВ">
@@ -1774,12 +1774,12 @@
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-3ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-5ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ОТ-БЕЛОКРЫЛКИ-1,5МЛ-1ШТ-ПДА">
@@ -1824,107 +1824,107 @@
 </offer>
 <offer id="01-КОН-ДОЛ-10МЛ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="02-КОН-ДОЛ-10МЛ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="03-КОН-ДОЛ-10МЛ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-3ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-1ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-2ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-3ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-1ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="МОНАРХ-4ГР-2ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-1ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-1ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-1ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-2ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-2ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-2ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-3ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-3ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-3ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-4ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-4ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ДЕГОТЬ-500МЛ-4ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="МАРГАНЦОВКА-10ГР-3ШТ-РАВ">
@@ -2034,32 +2034,32 @@
 </offer>
 <offer id="01-КОН-ДОЛ-10МЛ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="02-КОН-ДОЛ-10МЛ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="03-КОН-ДОЛ-10МЛ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS"/>
+<outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-КОН-ДОЛ-10МЛ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-КОН-ДОЛ-10МЛ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="03-КОН-ДОЛ-10МЛ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-SAL"/>
+<outlet instock="300" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-УРА-100-ПДА">
@@ -2339,12 +2339,12 @@
 </offer>
 <offer id="01-КАЛИП-10МЛ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="rFBS-PDA"/>
+<outlet instock="300" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-3ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-1ШТ-РАВ">
@@ -2389,7 +2389,7 @@
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-5ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ОТ-КЛЕЩА-1,5МЛ-1ШТ-РАВ">
@@ -2399,7 +2399,7 @@
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-2ШТ-РАВ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS"/>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-РАУ-АП-НОВЫЙ-500-РАВ">
@@ -2449,12 +2449,12 @@
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-2ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-3ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ОТ-БЕЛОКРЫЛКИ-1,5МЛ-3ШТ-САЛ">
@@ -2479,7 +2479,7 @@
 </offer>
 <offer id="ОТ-ТЛИ-1,5МЛ-5ШТ-САЛ">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-SAL"/>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="ОВОЩЕЧИС-ЗЕЛЕНАЯ-1ШТ-ПДА">
