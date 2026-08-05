@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-05 11:52">
+<yml_catalog date="2026-08-05 12:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРО-10-ПДА">
@@ -3715,6 +3715,156 @@
 <offer id="НАТИСК-20МЛ-1ШТ-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-РАУ-АП-НОВ-1000-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-УРА-1000-НОВЫЙ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="03-ФБС-ФУНДАЗОЛ-10ГР-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-ФУНДАЗОЛ-10ГР-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-НАП-1000-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-ТОР-АВГ-1000-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-НИТРА-ФЕН-1000-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-БИО-ГАР-1000-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-РАУ-АП-НОВ-1000-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-УРА-1000-НОВЫЙ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="03-ФБС-ФУНДАЗОЛ-10ГР-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-ФУНДАЗОЛ-10ГР-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-ТОР-АВГ-1000-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-НАП-1000-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-НИТРА-ФЕН-1000-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-БИО-ГАР-1000-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-УРА-1000-НОВЫЙ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-ФБС-ТОР-АВГ-1000-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-ДЛЯ-СЕПТИКОВ-500МЛ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ДЛЯ-СЕПТИКОВ-500МЛ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ДЛЯ-СЕПТИКОВ-500МЛ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="01-ДЛЯ-СЕПТИКОВ-75ГР-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="03-ДЛЯ-СЕПТИКОВ-75ГР-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="05-ДЛЯ-СЕПТИКОВ-75ГР-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-ДЛЯ-СЕПТИКОВ-75ГР-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="03-ДЛЯ-СЕПТИКОВ-75ГР-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="05-ДЛЯ-СЕПТИКОВ-75ГР-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-ДЛЯ-СЕПТИКОВ-75ГР-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="03-ДЛЯ-СЕПТИКОВ-75ГР-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="05-ДЛЯ-СЕПТИКОВ-75ГР-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 </offers>
