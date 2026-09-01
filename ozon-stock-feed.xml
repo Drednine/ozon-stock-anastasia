@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-01 11:52">
+<yml_catalog date="2026-09-01 12:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРО-10-ПДА">
@@ -814,37 +814,37 @@
 </offer>
 <offer id="01-ПРЕ-30П-1000+ПРЕ-30П-500-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-ПРЕ-30П-1000+ПРЕ-30П-500-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ПРЕ-30П-1000-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-PDA"/>
+<outlet instock="0" warehouse_name="rFBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-ПРЕ-30П-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="01-ПРЕ-30П-1000-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="02-ПРЕ-30П-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="02-ПРЕ-30П-1000-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS-SAL"/>
+<outlet instock="0" warehouse_name="rFBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ПРЕ-30П-500-ПДА">
@@ -2584,7 +2584,7 @@
 </offer>
 <offer id="СКАЛКА-1ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ПЕРГАМЕНТ-БУМАГА-2ШТ-ПДА">
