@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-21 11:52">
+<yml_catalog date="2026-09-21 12:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРО-10-ПДА">
@@ -2139,7 +2139,7 @@
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-САЛ">
@@ -2154,7 +2154,7 @@
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-САЛ">
@@ -2169,7 +2169,7 @@
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-САЛ">
@@ -2184,7 +2184,7 @@
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-САЛ">
@@ -3769,12 +3769,12 @@
 </offer>
 <offer id="03-ФБС-ФУНДАЗОЛ-10ГР-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ФБС-ФУНДАЗОЛ-10ГР-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-ФБС-ТОР-АВГ-1000-САЛ">
@@ -4125,6 +4125,51 @@
 <offer id="СТИРАЛЕН-2ШТ-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-НАТИСК-БОР-ШАР-8ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="02-НАТИСК-БОР-ШАР-8ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="03-НАТИСК-БОР-ШАР-8ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="01-НАТИСК-БОР-ШАР-8ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="02-НАТИСК-БОР-ШАР-8ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="03-НАТИСК-БОР-ШАР-8ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="01-НАТИСК-БОР-ШАР-8ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="02-НАТИСК-БОР-ШАР-8ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="03-НАТИСК-БОР-ШАР-8ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 </offers>
