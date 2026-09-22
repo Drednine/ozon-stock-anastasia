@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-22 10:52">
+<yml_catalog date="2026-09-22 11:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРО-10-ПДА">
@@ -1959,7 +1959,7 @@
 </offer>
 <offer id="МАРГАНЦОВКА-10ГР-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="БОР-КИС-100ГР-1ШТ-РАВ">
@@ -3704,7 +3704,7 @@
 </offer>
 <offer id="01-ФБС-ТОР-АВГ-1000-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ФБС-НИТРА-ФЕН-1000-РАВ">
