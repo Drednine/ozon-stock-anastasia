@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-23 13:52">
+<yml_catalog date="2026-09-23 14:52">
 <shop>
 <offers>
 <offer id="01-АЛФ-КРО-10-ПДА">
@@ -1134,17 +1134,17 @@
 </offer>
 <offer id="ЦИРКОН-1МЛ-10ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЦИРКОН-1МЛ-3ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЦИРКОН-1МЛ-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЦИРКОН-50-1ШТ-ПДА">
@@ -1164,17 +1164,17 @@
 </offer>
 <offer id="ЦИТОВИТ-1,5МЛ-10ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЦИТОВИТ-1,5МЛ-3ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЦИТОВИТ-1,5МЛ-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-ЧИС-СТВОЛ-1000-ПДА">
@@ -1289,32 +1289,32 @@
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-10ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-3ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-1МЛ-5ШТ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="10-ЭПИН-ЭКСТРА-1МЛ+ЦИРКОН-1МЛ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="03-ЭПИН-ЭКСТРА-1МЛ+ЦИРКОН-1МЛ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="05-ЭПИН-ЭКСТРА-1МЛ+ЦИРКОН-1МЛ-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="rFBS"/>
+<outlet instock="0" warehouse_name="rFBS"/>
 </outlets>
 </offer>
 <offer id="ЭПИН-ЭКСТРА-50-1ШТ-ПДА">
@@ -2139,7 +2139,7 @@
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-1ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-3ШТ-РАВ">
@@ -2169,7 +2169,7 @@
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-5ШТ-ПДА">
 <outlets>
-<outlet instock="0" warehouse_name="FBS-PDA"/>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="СЕРА-КОЛЛОИД-40ГР-10ШТ-РАВ">
@@ -3914,7 +3914,7 @@
 </offer>
 <offer id="01-ЭПИН-ЭКСТРА-1Л-РАВ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS"/>
+<outlet instock="0" warehouse_name="FBS"/>
 </outlets>
 </offer>
 <offer id="01-СТИР-ОТ-ЗАСОР-1КГ-РАВ">
@@ -3994,7 +3994,7 @@
 </offer>
 <offer id="01-ЭПИН-ЭКСТРА-1Л-САЛ">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
+<outlet instock="0" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
 <offer id="01-СТИР-ОТ-ЗАСОР-1КГ-САЛ">
@@ -4059,7 +4059,7 @@
 </offer>
 <offer id="01-ЭПИН-ЭКСТРА-1Л-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="01-СТИР-ОТ-ЗАСОР-1КГ-ПДА">
