@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-06 15:52">
+<yml_catalog date="2026-10-06 16:52">
 <shop>
 <offers>
 <offer id="01-ФБС-РАУ-АП-НОВ-1000-РАВ">
@@ -532,11 +532,6 @@
 <outlet instock="300" warehouse_name="rFBS"/>
 </outlets>
 </offer>
-<offer id="НАТИСК-20МЛ-2ШТ-РАВ">
-<outlets>
-<outlet instock="300" warehouse_name="FBS"/>
-</outlets>
-</offer>
 <offer id="БОР-КИС-100ГР-1ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
@@ -568,11 +563,6 @@
 </outlets>
 </offer>
 <offer id="МАЛ-ПЛА-МЫШ-5ШТ-РАВ">
-<outlets>
-<outlet instock="300" warehouse_name="FBS"/>
-</outlets>
-</offer>
-<offer id="НАТИСК-20МЛ-3ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
 </outlets>
@@ -683,11 +673,6 @@
 </outlets>
 </offer>
 <offer id="БИОГУМУС-ЦВЕТОВ-3ШТ-РАВ">
-<outlets>
-<outlet instock="300" warehouse_name="FBS"/>
-</outlets>
-</offer>
-<offer id="НАТИСК-20МЛ-1ШТ-РАВ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS"/>
 </outlets>
@@ -1747,11 +1732,6 @@
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
-<offer id="НАТИСК-20МЛ-1ШТ-САЛ">
-<outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
-</outlets>
-</offer>
 <offer id="ОПРЫСКИВАТЕЛЬ-КОРИЧ-650МЛ-2ШТ-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
@@ -1827,11 +1807,6 @@
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
 </offer>
-<offer id="НАТИСК-20МЛ-3ШТ-САЛ">
-<outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
-</outlets>
-</offer>
 <offer id="ЗЕЛ-МЫЛ-500-1ШТ-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
@@ -1898,11 +1873,6 @@
 </outlets>
 </offer>
 <offer id="НАТИСК-ОТ-МУРАВ-20МЛ-1ШТ-САЛ">
-<outlets>
-<outlet instock="300" warehouse_name="FBS-SAL"/>
-</outlets>
-</offer>
-<offer id="НАТИСК-20МЛ-2ШТ-САЛ">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-SAL"/>
 </outlets>
@@ -2742,11 +2712,6 @@
 <outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
-<offer id="НАТИСК-20МЛ-3ШТ-ПДА">
-<outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
-</outlets>
-</offer>
 <offer id="МЕД-КУПОРОС-100ГР-5ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
@@ -2833,11 +2798,6 @@
 </outlets>
 </offer>
 <offer id="НАТИСК-ЗЕРНО-200ГР-3ШТ-ПДА">
-<outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
-</outlets>
-</offer>
-<offer id="НАТИСК-20МЛ-2ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
@@ -3058,11 +3018,6 @@
 </outlets>
 </offer>
 <offer id="НАТИСК-ОТ-МУРАВ-20МЛ-2ШТ-ПДА">
-<outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
-</outlets>
-</offer>
-<offer id="НАТИСК-20МЛ-1ШТ-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
 </outlets>
@@ -3430,6 +3385,51 @@
 <offer id="01-ЭПИН-ЭКСТРА-1Л-ПДА">
 <outlets>
 <outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-1ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-1ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-1ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-2ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-2ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-2ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-3ШТ-САЛ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-SAL"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-3ШТ-ПДА">
+<outlets>
+<outlet instock="300" warehouse_name="FBS-PDA"/>
+</outlets>
+</offer>
+<offer id="НАТИСК-ОТ-ТАРАК-20МЛ-3ШТ-РАВ">
+<outlets>
+<outlet instock="300" warehouse_name="FBS"/>
 </outlets>
 </offer>
 </offers>
