@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-19 12:52">
+<yml_catalog date="2026-10-19 13:53">
 <shop>
 <offers>
 <offer id="01-ФБС-РАУ-АП-НОВ-1000-РАВ">
@@ -2699,7 +2699,7 @@
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ДОМ-3ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="ДОХ-ЛОВ-ТАР-6-1ШТ-ПДА">
@@ -2974,7 +2974,7 @@
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ДОМ-10ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="НАТИСК-ОТ-МУРАВ-20МЛ-1ШТ-ПДА">
@@ -3004,12 +3004,12 @@
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ДОМ-5ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="КЛЕЕВАЯ-ЛОВУШКА-ДОМ-8ШТ-ПДА">
 <outlets>
-<outlet instock="300" warehouse_name="FBS-PDA"/>
+<outlet instock="0" warehouse_name="FBS-PDA"/>
 </outlets>
 </offer>
 <offer id="НАТИСК-ЗЕРНО-400ГР-2ШТ-ПДА">
